@@ -10,7 +10,7 @@ This roadmap provides a step-by-step guide to mastering essential DevOps concept
 
 **🐧 Linux Fundamentals:** Learn essential Linux commands and shell scripting.
 
-![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blog/main/Images/11.png?raw=true)
+![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/main/Images/11.png?raw=true)
 
 
 ## DAY 5-7 : Version Control and Build Tools 🛠️
@@ -19,7 +19,7 @@ This roadmap provides a step-by-step guide to mastering essential DevOps concept
 
 **🚀 Maven and Node.js:** Explore Maven and Node.js for building projects.
 
-![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blog/main/Images/12.png?raw=true)
+![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/main/Images/12.png?raw=true)
 
 
 ## DAY 8-11: CI/CD and Code Quality 🔄
@@ -28,7 +28,7 @@ This roadmap provides a step-by-step guide to mastering essential DevOps concept
 
 **🎯 SonarQube for Code Quality:** Analyze and improve code quality using SonarQube.
 
-![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/Images/13.png?raw=true)
+![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/main/Images/13.png?raw=true)
 
 
 
@@ -38,14 +38,14 @@ This roadmap provides a step-by-step guide to mastering essential DevOps concept
 
 **🔒 Security Tools:** Discover security practices and tools like OWASP Dependency Check & Trivy.
 
-![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blog/main/Images/14.png?raw=true)
+![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/main/Images/14.png?raw=true)
 
 
 ## DAY 14-16: Docker and Containerization 🐳
 
 **🐳 Docker Containers:** Master the basics of Docker and containerization.
 
-![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blog/main/Images/15.png?raw=true)
+![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/main/Images/15.png?raw=true)
 
 
 
@@ -53,7 +53,7 @@ This roadmap provides a step-by-step guide to mastering essential DevOps concept
 
 **🚢 Kubernetes:** Explore container orchestration with Kubernetes.
 
-![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blog/main/Images/16.png?raw=true)
+![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/main/Images/16.png?raw=true)
 
 
 
@@ -61,7 +61,7 @@ This roadmap provides a step-by-step guide to mastering essential DevOps concept
 
 **⚡ Azure DevOps:** Use Azure DevOps for source control, work item tracking, and CI/CD pipelines.
 
-![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blog/main/Images/17.png?raw=true)
+![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/main/Images/17.png?raw=true)
 
 
 
@@ -69,7 +69,7 @@ This roadmap provides a step-by-step guide to mastering essential DevOps concept
 
 **🏗️ IaC Tools:** Learn tools like Terraform or Azure Resource Manager templates for automated infrastructure provisioning.
 
-![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blog/main/Images/18.png?raw=true)
+![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/main/Images/18.png?raw=true)
 
 
 ## DAY 30-31 +-2: Monitoring Tools and Observability 📊
@@ -78,10 +78,10 @@ This roadmap provides a step-by-step guide to mastering essential DevOps concept
 
 **🔍 Logging and Tracing**: Understand the importance of logging and distributed tracing.
 
-![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blog/main/Images/19.png?raw=true)
+![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/main/Images/19.png?raw=true)
 
 ## 15 Extra days to use
 
-![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blog/main/Images/20.png?raw=true)
+![alt text](https://github.com/fahmifareed/DevOps-RoadMap/blob/main/Images/20.png?raw=true)
 
 ### Good luck on your DevOps journey! 🚀👩‍💻👨‍💻
